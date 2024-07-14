@@ -1,0 +1,21 @@
+.env
+node_modules
+
+# Comipled Object files, Static and Dynamic libs (Shared Objetcs)
+*.o
+*.a 
+*.so 
+
+# Folders 
+_obj
+_test
+vendor/
+
+# Compiled binary files
+*.exe
+*.out
+/bin/
+/tmp/
+
+# macOS specific files
+.DS_Store
